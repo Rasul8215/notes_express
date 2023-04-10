@@ -1,4 +1,4 @@
 # notes_express
 #instal express
-#installl bcrypt
+#install bcrypt
 #install jsonwebtoken
